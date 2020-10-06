@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-24T12:12:46Z" name="Suite" finished-at="2020-09-24T12:13:41Z" duration-ms="54159">
+  <suite started-at="2020-09-29T08:39:51Z" name="Suite" finished-at="2020-09-29T08:40:49Z" duration-ms="58120">
     <groups>
     </groups>
-    <test started-at="2020-09-24T12:12:46Z" name="Test" finished-at="2020-09-24T12:13:41Z" duration-ms="54159">
+    <test started-at="2020-09-29T08:39:51Z" name="Test" finished-at="2020-09-29T08:40:49Z" duration-ms="58120">
       <class name="com.atmecs.goibibo.BookingClass">
-        <test-method is-config="true" signature="declaration()[pri:0, instance:com.atmecs.goibibo.BookingClass@b62fe6d]" started-at="2020-09-24T12:13:29Z" name="declaration" finished-at="2020-09-24T12:13:37Z" duration-ms="8089" status="PASS">
+        <test-method is-config="true" signature="declaration()[pri:0, instance:com.atmecs.goibibo.BookingClass@b62fe6d]" started-at="2020-09-29T08:40:37Z" name="declaration" finished-at="2020-09-29T08:40:45Z" duration-ms="8422" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- declaration -->
-        <test-method signature="book()[pri:2, instance:com.atmecs.goibibo.BookingClass@b62fe6d]" started-at="2020-09-24T12:13:37Z" name="book" finished-at="2020-09-24T12:13:38Z" duration-ms="1049" status="PASS">
+        <test-method signature="book()[pri:2, instance:com.atmecs.goibibo.BookingClass@b62fe6d]" started-at="2020-09-29T08:40:45Z" name="book" finished-at="2020-09-29T08:40:46Z" duration-ms="1314" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- book -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.atmecs.goibibo.BookingClass@b62fe6d]" started-at="2020-09-24T12:13:38Z" name="closeBrowser" finished-at="2020-09-24T12:13:41Z" duration-ms="2323" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.atmecs.goibibo.BookingClass@b62fe6d]" started-at="2020-09-29T08:40:46Z" name="closeBrowser" finished-at="2020-09-29T08:40:49Z" duration-ms="2345" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.atmecs.goibibo.BookingClass -->
       <class name="com.atmecs.goibibo.LoginClass">
-        <test-method is-config="true" signature="declaration()[pri:0, instance:com.atmecs.goibibo.LoginClass@13acb0d1]" started-at="2020-09-24T12:12:46Z" name="declaration" finished-at="2020-09-24T12:12:54Z" duration-ms="7228" status="PASS">
+        <test-method is-config="true" signature="declaration()[pri:0, instance:com.atmecs.goibibo.LoginClass@13acb0d1]" started-at="2020-09-29T08:39:51Z" name="declaration" finished-at="2020-09-29T08:40:01Z" duration-ms="10290" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- declaration -->
-        <test-method signature="loginTravels()[pri:1, instance:com.atmecs.goibibo.LoginClass@13acb0d1]" started-at="2020-09-24T12:12:54Z" name="loginTravels" finished-at="2020-09-24T12:13:27Z" duration-ms="33366" status="PASS">
+        <test-method signature="loginTravels()[pri:1, instance:com.atmecs.goibibo.LoginClass@13acb0d1]" started-at="2020-09-29T08:40:01Z" name="loginTravels" finished-at="2020-09-29T08:40:35Z" duration-ms="33635" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTravels -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.atmecs.goibibo.LoginClass@13acb0d1]" started-at="2020-09-24T12:13:27Z" name="closeBrowser" finished-at="2020-09-24T12:13:29Z" duration-ms="2077" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.atmecs.goibibo.LoginClass@13acb0d1]" started-at="2020-09-29T08:40:35Z" name="closeBrowser" finished-at="2020-09-29T08:40:37Z" duration-ms="2086" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
